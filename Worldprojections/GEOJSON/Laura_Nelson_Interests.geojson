@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Laura_Nelson_Interests",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null, "Comments": "This is the arboretum. I love sitting here for a moment of peace after a particularly stressful exam.", "NAME": "Aboretum" }, "geometry": { "type": "Point", "coordinates": [ -79.048551534025719, 35.913244038106718 ] } }
+]
+}
